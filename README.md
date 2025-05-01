@@ -8,7 +8,7 @@ A simple AI-powered trading assistant for Base and Ethereum. This agent helps su
 - **AI Chat Interface**: Natural language interaction for trading and portfolio insights
 - **Trading Execution**: Buy and sell tokens using the 0x Protocol on Base chain
 
-##Demo
+## Demo
 
 https://github.com/user-attachments/assets/aa016ce5-8596-4f63-8b78-1b94332dde3b
 
